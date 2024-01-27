@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenHongYuan
 - 👀 I’m interested in BBQ
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and MERN stack
 - 💞️ I’m looking to collaborate on github 
 - 📫 How to reach me : ay2838684767@gmail.com
 
